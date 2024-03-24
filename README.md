@@ -19,7 +19,7 @@ Dans Sonia-Snake, vous contrôlez un serpent appelé Sonia à travers un plateau
 
 ## Crédits
 
-Ce jeu a été développé par Insur.
+Ce jeu a été développé par [Insur](https://github.com/InsurWeb).
 
 ## Remerciements
 
